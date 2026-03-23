@@ -1,2 +1,12 @@
-# api-tests-python
-Simple API tests using Python
+# API Tests (Python)
+
+Проект с автотестами API.
+
+## Технологии
+- Python
+- requests
+- pytest
+
+## Запуск
+pip install -r requirements.txt  
+pytest
