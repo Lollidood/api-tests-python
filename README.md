@@ -1,12 +1,13 @@
-# API Tests (Python)
+API Tests (Python)
 
-Проект с автотестами API.
+Project with API automated tests.
 
-## Технологии
+Technologies:
 - Python
 - requests
-- pytest
+-pytest
 
-## Запуск
-pip install -r requirements.txt  
+Running the tests:
+
+pip install -r requirements.txt
 pytest
